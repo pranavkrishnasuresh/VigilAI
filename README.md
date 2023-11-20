@@ -1,4 +1,4 @@
-# VigilAI
+# VigilAI - Winner of AI ATL Hackathon - 2nd Place BCGX
 
 ## Inspiration
 
