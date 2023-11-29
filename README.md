@@ -1,4 +1,5 @@
-# VigilAI - Winner of AI ATL Hackathon - 2nd Place BCGX
+# VigilAI - Winner of AI ATL Hackathon - 1st Place The Home Depot: Securing and Validating Large Language Models, 2nd Place BCG X: Business Innovation
+
 
 ## Inspiration
 
