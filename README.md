@@ -1,4 +1,4 @@
-# VigilAI - Winner of AI ATL Hackathon
+# VigilAI - Winner of AI ATL Hackathon, Startup Exchange Fellowship S24
 **1st Place The Home Depot: Securing and Validating Large Language Models
 2nd Place BCG X: Business Innovation**
 
